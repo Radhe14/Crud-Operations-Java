@@ -1,4 +1,4 @@
-# Crue-Operations-Java
+# CRUD-Operations-Java
 This project is a simple Java application that performs CRUD (Create, Read, Update, Delete) operations on a MySQL database. The application uses JDBC to connect to the database and perform the operations.
 The main features of the application include:
 
